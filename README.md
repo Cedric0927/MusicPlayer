@@ -11,9 +11,9 @@ Hi, 这是我在大四的时候做的毕设，现如今将该项目开源。
 
 Music playing system based on personalized recommendation
 
-Hi, this is the final design I did when I was a senior, and now the project is open source.
+Hi, this is the final design I did when I was a student, and now the project is open source.
 This project is based on Python's tkinter and pygame.
-Generally speaking, the code of this project is rather bad (because the level is very good at the time).
+Generally speaking, the code of this project is rather bad (because the level is very low at the time).
 If you run it, install a few basic libraries and you can run it, but the data in it has not been uploaded to Github.
 Write it here first, and then write it if someone reads it.
 
